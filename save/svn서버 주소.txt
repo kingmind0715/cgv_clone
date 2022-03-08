@@ -1,6 +1,0 @@
-Test Server
-https://SEM-PC/svn/projects/201809M/team2/documents
-
-Operation Server
-http://112.220.114.130:10001/svn/projects/201809M/team1/documents
-http://112.220.114.130:10001/svn/projects/201809M/team1/source
